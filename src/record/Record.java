@@ -1,5 +1,9 @@
 package record;
 
+/**
+Record interface.
+Rappresent a single row.
+*/
 public interface Record {
 	
 	/**
